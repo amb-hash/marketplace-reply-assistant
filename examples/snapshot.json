@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "provenance": {"approved_by": "synthetic-demo", "source": "synthetic example; not Deppa product knowledge"},
+  "products": [{"article": "DEMO-001", "name": "Синтетический товар", "material": [["demo.identity", "Это синтетический товар для проверки установки."]]}],
+  "mappings": [{"marketplace": "ozon", "account_id": "demo-account", "external_id": "demo-sku-001", "article": "DEMO-001"}],
+  "messages": [{"marketplace": "ozon", "account_id": "demo-account", "external_id": "demo-question-001", "kind": "question", "text": "Что это за демонстрационный товар?", "hints": {"sku": "demo-sku-001"}}]
+}

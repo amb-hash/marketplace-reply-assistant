@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "messages": [
+    {
+      "message_id": "check_44167_001",
+      "marketplace": "wildberries",
+      "account_id": "local_test_account",
+      "external_id": "local-check-44167-20261028",
+      "kind": "question",
+      "text": "Как подключить эти наушники к телефону?",
+      "hints": {
+        "sellerArticle": "44167"
+      }
+    }
+  ]
+}

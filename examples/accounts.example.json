@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "accounts": [
+    {"marketplace": "wildberries", "account_id": "acct_deppa_wb", "name": "Deppa", "api_key_env": "MRA_WB_DEPPA_KEY"},
+    {"marketplace": "wildberries", "account_id": "acct_deppa_msk", "name": "Deppa MSK", "api_key_env": "MRA_WB_MSK_KEY"},
+    {"marketplace": "ozon", "account_id": "acct_deppa_ozon", "name": "Deppa", "api_key_env": "MRA_OZON_DEPPA_KEY", "client_id_env": "MRA_OZON_DEPPA_CLIENT_ID"},
+    {"marketplace": "ozon", "account_id": "acct_deppa_ozon_msk", "name": "Deppa MSK", "api_key_env": "MRA_OZON_MSK_KEY", "client_id_env": "MRA_OZON_MSK_CLIENT_ID"},
+    {"marketplace": "yandex_market", "account_id": "acct_deppa_yandex", "name": "Deppa", "api_key_env": "MRA_YANDEX_DEPPA_KEY"},
+    {"marketplace": "yandex_market", "account_id": "acct_axxa_yandex", "name": "AXXA", "api_key_env": "MRA_YANDEX_AXXA_KEY"}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "rules_version": "2.1",
+  "expected_articles": 490,
+  "expected_categories": 16,
+  "expected_mappings": 1817,
+  "files": [
+    {
+      "path": "knowledge/ПРАВИЛА ОТВЕТОВ.md",
+      "source_project_path": "ПРАВИЛА ОТВЕТОВ.md",
+      "sha256": "a9cee64370adcebf84b9dc46a648940af810a0b00018bb9d38801b701af2fc6c",
+      "kind": "rules"
+    },
+    {
+      "path": "knowledge/КАНОН ДЛЯ АГЕНТА.md",
+      "source_project_path": "2026-10-08 – 17-52-13 – Готовый канон/Канон для агента/КАНОН ДЛЯ АГЕНТА.md",
+      "sha256": "9f88e586107bafc4ee601c2687b8b8f07e773e695dfd06946b600a025fc9a5e1",
+      "kind": "canon"
+    },
+    {
+      "path": "knowledge/ozon-mapping.json",
+      "source_project_path": "данные/2026-10-06 – 13-24-15 – Ozon SKU — артикулы Deppa.json",
+      "source_sha256": "2873688ef5de373a17a3b34c83037cd872fd84343ffe713cab221f0e02b68709",
+      "sha256": "258c52c550f3b42d835ec8710e3cf437c0a392549c7ef450f02bdc670e1cadf7",
+      "kind": "mapping",
+      "transformation": "allowlist marketplace/account_id/external_id/article; no credentials or credential locations"
+    }
+  ]
+}
